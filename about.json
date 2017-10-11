@@ -62,6 +62,30 @@
       "danger": "e45735",
       "success": "009900",
       "love": "fa6c8d"
+    },
+    "M1thrandir Dark": {
+      "primary": "ababab",
+      "secondary": "222222",
+      "tertiary": "5eb9b9",
+      "quaternary": "0b8692",
+      "header_background": "151515",
+      "header_primary": "ababab",
+      "highlight": "0b8692",
+      "danger": "9e1919",
+      "success": "3a8c5a",
+      "love": "e8486d"
+    },
+    "M1thrandir Light": {
+      "primary": "222222",
+      "secondary": "f5f5f5",
+      "tertiary": "ff8222",
+      "quaternary": "ff5722",
+      "header_background": "00395f",
+      "header_primary": "ffffff",
+      "highlight": "0172bd",
+      "danger": "df0000",
+      "success": "5d882e",
+      "love": "fa6c8d"
     }
   }
 }
